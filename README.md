@@ -90,9 +90,11 @@ mvn clean verify sonar:sonar -Dsonar.token=TU_TOKEN
 
 Despues de ejecutar el analisis, guardar las capturas reales en la carpeta `docs/` con estos nombres:
 
-![Dashboard SonarQube](docs/sonar-dashboard.png)
-![Detalle Bugs](docs/sonar-bugs.png)
-![Detalle Code Smells](docs/sonar-code-smells.png)
+![alt text](<Capturas de pantalla/Sonar-Dashboard.png>)
+
+![alt text](<Capturas de pantalla/Sonar-code-smells.png>)
+
+![alt text](<Capturas de pantalla/Sonar-Bugs.png>)
 
 ## Interpretacion inicial
 
